@@ -3,6 +3,7 @@ Clicker marks are hollow circles inside, their number can be configured using th
 Important edits (read EVERYONE to understand the specifics of the program):
 - make clicks separate, since now the program uses the mouse CURSOR for clicks, which means that you will not be able to fully work on the PC simultaneously with the clicker;
 - A programming environment is used for launching, I haven't made an executable yet.
+The program is in Russian.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -12,3 +13,4 @@ Important edits (read EVERYONE to understand the specifics of the program):
 Важные правки (читать ВСЕМ, чтобы понять специфику работы программы):
 - сделать клики обособленными, так как сейчас работа программы использует для кликов КУРСОР мыши, а значит, что вы не сможете работать на ПК полноценно одновременно с кликером;
 - Для запуска используется среда программирования, экзе пока не сделал.
+Программа натрусском языке.
